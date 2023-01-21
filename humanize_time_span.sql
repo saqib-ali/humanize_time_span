@@ -9,6 +9,3 @@ SELECT
   END
 '
 LANGUAGE SQL;
-
-
--- See this function in action at: https://qi.tc/
